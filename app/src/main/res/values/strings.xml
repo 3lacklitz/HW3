@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork3</string>
+    <string name="usr_name">ชื่อผู้ใช้งาน</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="log_in">เข้าสู่ระบบ</string>
+    <string name="sign_up">สมัครสมาชิก</string>
+    <string name="txt_create">Create By Gof.</string>
+</resources>

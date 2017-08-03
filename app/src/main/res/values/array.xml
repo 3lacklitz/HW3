@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="img_post">
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+    </integer-array>
+
+    <string-array name="name_post">
+        <item>ADay</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>C</item>
+        <item>F</item>
+        <item>N</item>
+        <item>K</item>
+        <item>L</item>
+        <item>P</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="status_post">
+        <item>เมื่อสักครู่ • </item>
+        <item>2 นาที • </item>
+        <item>6 นาที • </item>
+        <item>45 นาที • </item>
+        <item>1 ชม. • </item>
+        <item>20 นาที • </item>
+        <item>2 ชม. • </item>
+        <item>3 ชม. • </item>
+        <item>4 ชม. • </item>
+        <item>1 ชม. • </item>
+        <item>วันศุกร์ เวลา 20.09 • </item>
+        <item>5 ชม. • </item>
+        <item>4 สิงหาคม เวลา 05.12 • </item>
+        <item>2 สิงหาคม เวลา 12.02 • </item>
+        <item>1 สิงหาคม เวลา 01.01 • </item>
+    </string-array>
+
+    <integer-array name="pic_post">
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+        <item>@drawable/bg_candy</item>
+    </integer-array>
+</resources>
