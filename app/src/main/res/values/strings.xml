@@ -5,4 +5,7 @@
     <string name="log_in">เข้าสู่ระบบ</string>
     <string name="sign_up">สมัครสมาชิก</string>
     <string name="txt_create">Create By Gof.</string>
+    <string name="like">ถูกใจ</string>
+    <string name="comment">แสดงความคิดเห็น</string>
+    <string name="share">แชร์</string>
 </resources>

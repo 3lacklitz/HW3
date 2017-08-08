@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <integer-array name="img_post">
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
+        <item>@drawable/prof1</item>
+        <item>@drawable/prof2</item>
+        <item>@drawable/prof3</item>
+        <item>@drawable/prof4</item>
+        <item>@drawable/prof5</item>
+        <item>@drawable/prof6</item>
+        <item>@drawable/prof7</item>
+        <item>@drawable/prof8</item>
+        <item>@drawable/prof9</item>
+        <item>@drawable/prof10</item>
+        <item>@drawable/prof11</item>
+        <item>@drawable/prof12</item>
+        <item>@drawable/prof13</item>
+        <item>@drawable/prof14</item>
+        <item>@drawable/prof15</item>
     </integer-array>
 
     <string-array name="name_post">
-        <item>ADay</item>
-        <item>A</item>
-        <item>A</item>
-        <item>A</item>
-        <item>A</item>
-        <item>B</item>
-        <item>B</item>
-        <item>B</item>
-        <item>C</item>
-        <item>F</item>
-        <item>N</item>
-        <item>K</item>
-        <item>L</item>
-        <item>P</item>
-        <item>P</item>
+        <item>Monkey D. Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Sanji</item>
+        <item>Usopp</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Nico Robin</item>
+        <item>Tony Tony Chopper</item>
+        <item>Brooky</item>
+        <item>Shank</item>
+        <item>Trafalgar Law</item>
+        <item>Marine</item>
+        <item>Edward</item>
+        <item>Laboon</item>
     </string-array>
 
     <string-array name="status_post">
@@ -55,20 +55,20 @@
     </string-array>
 
     <integer-array name="pic_post">
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
-        <item>@drawable/bg_candy</item>
+        <item>@drawable/post1</item>
+        <item>@drawable/post2</item>
+        <item>@drawable/post3</item>
+        <item>@drawable/post4</item>
+        <item>@drawable/post5</item>
+        <item>@drawable/post6</item>
+        <item>@drawable/post7</item>
+        <item>@drawable/post8</item>
+        <item>@drawable/post9</item>
+        <item>@drawable/post10</item>
+        <item>@drawable/post11</item>
+        <item>@drawable/post12</item>
+        <item>@drawable/post13</item>
+        <item>@drawable/post14</item>
+        <item>@drawable/post15</item>
     </integer-array>
 </resources>
