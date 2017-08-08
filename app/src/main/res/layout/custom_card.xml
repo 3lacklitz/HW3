@@ -6,15 +6,9 @@
     android:id="@+id/more_option_container_relative_layout"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:clickable="true">
+    android:clickable="true"
+    android:background="@drawable/bg_back_post">
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:contentDescription="@null"
-        android:scaleType="centerCrop"
-        android:src="@drawable/bg_candy"
-        android:tint="#66000000" />
 
     <android.support.v7.widget.CardView
         android:id="@+id/card_view"
@@ -104,7 +98,8 @@
                 android:background="@drawable/like_selector"
                 android:drawableLeft="@drawable/img_like"
                 android:text="@string/like"
-                android:textAllCaps="false" />
+                android:textAllCaps="false"
+                android:padding="8dp"/>
 
             <Button
                 android:id="@+id/btn_comment"
@@ -114,7 +109,8 @@
                 android:background="@drawable/comment_selector"
                 android:drawableLeft="@drawable/img_comment"
                 android:text="@string/comment"
-                android:textAllCaps="false" />
+                android:textAllCaps="false"
+                android:padding="8dp"/>
 
             <Button
                 android:id="@+id/btn_share"
@@ -124,7 +120,8 @@
                 android:background="@drawable/share_selector"
                 android:drawableLeft="@drawable/img_share"
                 android:text="@string/share"
-                android:textAllCaps="false" />
+                android:textAllCaps="false"
+                android:padding="8dp"/>
 
         </LinearLayout>
     </android.support.v7.widget.CardView>
